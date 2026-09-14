@@ -1,4 +1,4 @@
-# 🧠 Leakage-Safe Hierarchical Brain Tumor MRI Classification
+# Leakage-Safe Hierarchical Brain Tumor MRI Classification
 
 A reproducible deep learning framework for **multi-class brain tumor classification from MRI images** using a **two-stage hierarchical classification approach**.
 
