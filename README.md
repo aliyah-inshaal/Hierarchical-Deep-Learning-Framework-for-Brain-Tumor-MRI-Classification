@@ -21,7 +21,7 @@ The project also includes leakage-safe dataset splitting, baseline comparisons, 
 
 This work was presented at:
 
-**3rd International Conference on Emerging Trends and Applications in Artificial Intelligence (ETA-AI)**
+**3rd International Conference on Emerging Trends and Applications in Artificial Intelligence (ICETAI 2026)**
 
 The study explores a hierarchical deep learning approach for automated brain tumor MRI classification with emphasis on robust evaluation, explainability, and generalization.
 
